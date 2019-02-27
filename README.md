@@ -1,2 +1,3 @@
 # karate-okhttp-signpost
-OkHttp extension to Karate with OAuth1 support.
+
+Simple extension to Karate to use OkHttp and optionally, to use Signpost to support OAuth1
