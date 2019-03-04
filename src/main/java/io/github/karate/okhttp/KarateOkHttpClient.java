@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-package com.intuit.karate.http.okhttp;
+package io.github.karate.okhttp;
 
 import static com.intuit.karate.http.Cookie.DOMAIN;
 import static com.intuit.karate.http.Cookie.EXPIRES;
